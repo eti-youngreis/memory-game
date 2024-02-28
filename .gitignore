@@ -1,0 +1,5 @@
+.vs
+Game.sln
+Game/bin
+Game/obj
+Game/Game.csproj
